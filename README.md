@@ -8,6 +8,7 @@
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 
 ---
+🇬🇧 *[Read the English version](README.en.md)*
 
 ## Executive Summary
 
