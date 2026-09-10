@@ -89,7 +89,6 @@ Individuati 5 topic latenti nelle recensioni negative (selezionati tramite ottim
 .
 ├── Progetto_completo.ipynb        # notebook completo con l'intera pipeline
 ├── Progetto_completo.pdf          #pdf del notebook con il codice già runnato
-├── requirements.txt
 └── README.md
 ```
 
